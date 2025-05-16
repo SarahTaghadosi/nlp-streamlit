@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # nlp-streamlit
 =======
 # 🧠 Resume-to-Job Matcher (NLP Practice Project)
@@ -8,13 +7,3 @@ This is a simple NLP project that matches resumes to job opportunities using **s
 - 🔎 NLP & vector similarity (Euclidean distance)
 - 📦 JSON data handling
 - 💻 Streamlit app building
-
----
-
-## 📂 Project Structure
-
-```bash
-├── matcher_app.py              # Main app script
-├── resumes.json                # List of resumes with key_words
-├── job_opportunities.json      # List of job descriptions with key_words
->>>>>>> fd2ff88 (resume matcher app with Streamlit)
